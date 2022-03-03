@@ -233,6 +233,12 @@ public class Excercises {
 		
 		return result;
 	}
+	//Exercise 9*
+	public static String setOperations(String input) {
+		String result = "0";
+		
+		return result;
+	}
 
 	
 	public static void main(String[] args) {
@@ -333,6 +339,8 @@ public class Excercises {
 		System.out.println(executeStringEquation(inputEquation));
 		System.out.println(inputEquation.length());
 		//TODO pabeigt 8* uzdevumu
+		
+		//Exercise 9*
 	}
 }
 
