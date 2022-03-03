@@ -332,6 +332,7 @@ public class Excercises {
 		String inputEquation = "1 - 3 * 18 / 4 + 2";
 		System.out.println(executeStringEquation(inputEquation));
 		System.out.println(inputEquation.length());
+		//TODO pabeigt 8* uzdevumu
 	}
 }
 
